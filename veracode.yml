@@ -1,2 +1,4 @@
 veracode_static_scan:
+  push:
+    trigger: false
   policy: 'Veracode Recommended High + SCA'
